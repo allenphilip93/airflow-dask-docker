@@ -1,0 +1,7 @@
+cython
+numpy
+pandas
+matplotlib
+dask[complete]
+scipy
+pyarrow
